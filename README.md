@@ -16,7 +16,7 @@ It includes three data files 'calendar.csv', 'listings.csv', and 'reviews.csv'. 
 
 ## Business Questions
 
-What are top 5 neighborhoods with most no of listings?
+What are top 5 neighborhoods with most no of listings? <br>
 What are average listing price for each neighborhood?
 Which is the busiest season of the year and how prices changed during peak season?
-What factors of the listing correlate best for predicting the price?
+What factors of the listing correlate best for predicting the price ?
