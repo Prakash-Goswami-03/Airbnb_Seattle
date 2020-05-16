@@ -12,7 +12,8 @@ The code is written in Python 3 with Jupyter Notebook. A set of libraries used i
 ## Data
 
 Data used in this project are included in the \data folder.
-It includes three data files 'calendar.csv', 'listings.csv', and 'reviews.csv'. A detailed description on these files can be found at the Kaggle link provided in the first paragraph of this readme file.
+It includes three data files 'calendar.csv', 'listings.csv', and 'reviews.csv'. A detailed description on these files can be found at the Kaggle link provided in the first paragraph of this readme file.<br.
+Data is available in the Zip file.
 
 ## Business Questions
 
