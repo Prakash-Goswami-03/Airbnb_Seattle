@@ -2,7 +2,8 @@
 
 This repository designated for a project that analyzes a dataset which contains Seattle Airbnb data. This dataset is available and downloadable from Kaggle https://www.kaggle.com/airbnb/seattle. 
 
-In this project, several business questions were proposed and answered through data exploration. A detailed write-up for this project is available on Medium.
+In this project, several business questions were proposed and answered through data exploration. A detailed write-up for this project is available on Medium. https://medium.com/@p3akash/planning-a-trip-to-seattle-let-me-help-you-with-some-data-4b5ab04c0853
+
 
 ## Install
 
