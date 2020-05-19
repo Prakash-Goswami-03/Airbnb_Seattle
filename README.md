@@ -35,21 +35,27 @@ What factors of the listing correlate best for predicting the price ? <br>
 
 ## Summary of the results
 # 1. The top 5 neighborhoods with most no of listings are:
-      Other neighborhood: 800 listings
-      Capitol Hill: 560 listings
-      Downtown: 520 listings
-      Central Area: 360 listings
-      Queen Anne: 290 listings
+Other neighborhood: 800 listings
+Capitol Hill: 560 listings
+Downtown: 520 listings
+Central Area: 360 listings
+Queen Anne: 290 listings
+<img src ="images/Neighborhood vs No of Listing.png" width=500>
 
 # 2. What are average listing price for each neighborhood?
      Average price for eachneighborhood are represented through a point graph in the jupyter notebook
-     Mangolia has the heighest average price.
+     Mangolia has the heighest average price.  
+     
+<img src ="images/Avg Price per Neighbour.png" width=500>     
 
 # 3. Which is the busiest season of the year and how prices changed during peak season?
      Average listing price reached to the peak on July and August. These are the most busienst months of the year.
+<img src ="images/Price of properties over the time period.png" width=500>
     
 # 4. What factors influence the booking price of property?
       booking price is highly correlated with attributes like number of people that property can accommodate, number of bedrooms, beds         and size in square feet. 
+<img src ="images/Correlation between price and other features.png" width=500>
+   
       
 ## Acknowledgement
 This project wouldn't have been possible in the case of inavailability of datasets provided by Airbnb team. Thanks to Kaggle for hosting the dataset and making it easily accessible to large data science community. Thanks to Udacity reviewers team for providing valueable feedback on improving this project. Special thanks to open source contributors for creating and maintaining wonderful libraries like Pandas, Numpy, Matplotlib, Scikit Learn, Seaborn and Jupyter Notebook other dependencies of these libraries.
